@@ -2,6 +2,11 @@
 
 A hands-on cloud infrastructure project demonstrating secure remote administration of an Amazon Linux EC2 instance using SSH from both **Windows 11** and **Ubuntu Linux**. This project focuses on practical Linux system administration, AWS cloud fundamentals, secure remote access, networking verification, and technical documentation.
 
+![AWS](https://img.shields.io/badge/AWS-EC2-orange?style=for-the-badge&logo=amazonaws)
+![Linux](https://img.shields.io/badge/Linux-Amazon%20Linux-success?style=for-the-badge&logo=linux)
+![SSH](https://img.shields.io/badge/OpenSSH-Remote%20Access-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
 ---
 
 ## Project Overview
