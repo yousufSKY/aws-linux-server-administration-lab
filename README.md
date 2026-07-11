@@ -338,3 +338,9 @@ https://github.com/yousufSKY/aws-custom-vpc-network-lab
 ## ⭐ Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
+
+---
+
+## License
+
+This project is licensed under the MIT License.
